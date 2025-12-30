@@ -1,2 +1,2 @@
 this project is build only for educational purpose
-teech stack gsap react 
+lets build something what will be magic for others
